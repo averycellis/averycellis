@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Avery Ellis, @averycellis here, or @aellis0 on Twitter!
+- 👀 I’m interested in sports analytics, with R and Python
+- 🌱 I’m currently learning how to do R.
+- 📫 You can reach me on Twitter, find my work at my blog (statsbyavery.com) or email me at averycellis01@gmail.com.
